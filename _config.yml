@@ -1,7 +1,7 @@
 name: ArpysTest
 favicon: null
-layout_spectrum: 0.22906493837945163
-typography_spectrum: 0.5260777061339468
+layout_spectrum: 0.98071
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#24232b'
+    - '#404c5c'
+    - '#72736e'
+    - '#070512'
+    - '#b599a6'
   brandStrength: 0.0738372674677521
   lightness: 0.09649643674492836
   saturation: 0.02381231472827494
