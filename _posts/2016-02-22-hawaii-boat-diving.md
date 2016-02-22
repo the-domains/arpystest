@@ -11,15 +11,15 @@ publisher:
   domain: www.flickr.com
 keywords: []
 app_links:
-  - url: 'flickr://flickr.com/photos/arpys/13975069615'
+  - url: 'flickr://flickr.com/photos/arpys/13971860611'
     type: ios
     namespace: ai
     app_name: Flickr
     app_store_id: '328407587'
-isBasedOnUrl: 'https://www.flickr.com/photos/arpys/13975069615/in/dateposted-public/'
+isBasedOnUrl: 'https://www.flickr.com/photos/arpys/13971860611/in/dateposted-public/'
 title: Hawaii Boat Diving
-datePublished: '2016-02-22T13:09:46.824Z'
-dateModified: '2016-02-22T13:07:46.695Z'
+datePublished: '2016-02-22T13:09:55.568Z'
+dateModified: '2016-02-22T13:08:05.514Z'
 sourcePath: _posts/2016-02-22-hawaii-boat-diving.md
 published: true
 inFeed: true
@@ -29,4 +29,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Hawaii Boat Diving](https://farm8.staticflickr.com/7265/13975069615_5281b45089_b.jpg)
+![Hawaii Boat Diving](https://farm3.staticflickr.com/2909/13971860611_3583a637c7_b.jpg)
